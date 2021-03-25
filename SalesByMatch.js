@@ -11,4 +11,6 @@ const  sortAndCount = ( n, arr ) => {
     return pairs;
 }
 
-console.log(sortAndCount(10, [1,5,2,4,5,2,1,4,5,3]))
+console.log(sortAndCount(9, [10, 20, 20, 10, 10, 30, 50, 10, 20]))
+
+console.log(sortAndCount(10, [1, 1, 3, 1, 2, 1, 3, 3, 3, 3,]))
